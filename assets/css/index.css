@@ -1,0 +1,167 @@
+.lgx-banner {
+    background-image: url("../img/backgroundimg.webp");
+    
+    
+}
+.banner{
+    background-image: url("../img/speakers.jpg");
+}
+.lgx-page-inner{
+    padding: 9rem 0 4rem;
+    
+}
+.lgx-banner-inner .lgx-heading .heading{
+    margin-top: 2.5rem;
+    
+}
+.lgx-schedule .lgx-inner {
+    background-size: 100% auto,cover;
+    background: url("../img/backgroundcalendario.webp");
+}
+.lgx-heading-white .heading1{
+    font-family: Poppins,sans-serif;
+    font-size: 4.2rem;
+    line-height: 6.300000000000001rem;
+    color: #1b273d;
+    font-weight: 900;
+    margin: 0 0 1rem;
+    text-transform: uppercase;
+}
+.lgx-heading-white .subheading1{
+    font-size: 2rem;
+    line-height: 3rem;
+    color: #1b273d;
+    color: rgba(50,51,51,.8);
+    font-weight: 400;
+    margin: 0;
+}
+.lgx-logo {
+    height: 70px;
+    width:60px;
+    display: flex;
+    justify-content: center;
+    border-radius: 50px;
+    margin-top: 5px;
+    margin-bottom: 3px;
+}
+.lgx-logo img {
+    height: 70px;
+    width:60px;
+    display: flex;
+    justify-content: center;
+    border-radius: 50px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+.lgx-banner-info{
+ 
+    background-color: rgba(0, 0, 0, 0.5);
+    
+}
+
+
+.lgx-col3 img {
+    width: 100%;
+    height: 500px;
+}
+.coordinador img {
+    width: 100%;
+    
+}
+.sponsors-area img {
+    max-height: 230px;
+}
+.lgx-sponsors{
+   
+    background-image: url("../img/sponsor.jpg");
+}
+.lgx-speakers{
+    
+    background-image: url("../img/speakers.jpg");
+}
+.lgx-inner-countdown {
+    background-color: red;
+}
+
+#lgx-countdown .lgx-days, #lgx-countdown .lgx-hr, #lgx-countdown .lgx-min, #lgx-countdown .lgx-sec {
+    color: white;
+}
+.lgx-banner-inner .breadcrumb li{
+    text-transform: none;
+}
+.col-xs-12 a{
+    color: black;
+}
+.lgx-tab-content{
+    border: none;
+    background: none;
+    box-shadow: none;
+    
+}
+
+
+.lgx-panel .lgx-single-schedule .author{
+    max-width: 100px;
+    max-height: 100px;
+    
+}
+.lgx-panel .lgx-single-schedule .author img{
+    border-radius: 0%;
+    width: 100px;
+    height: 100px;
+}
+.lgx-panel .panel-body .text{
+    
+    text-align: justify;
+    
+}
+.innerpage-section{
+    background-image: url("../img/backgroundmap.jpg");
+    background-size: cover;
+
+}
+.maphouse{
+    display: flex;
+    justify-content: center;
+    
+}
+.container h1{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 10px;
+    
+}
+.lgx-banner-inner .lgx-heading-area {
+    margin-bottom: 0;
+    margin-top: 15px;
+}
+.cita{
+    text-align: justify;
+}
+
+.container .heading3{
+    font-family: Poppins,sans-serif;
+    font-size: 4.2rem;
+    line-height: 6.300000000000001rem;
+    color: #1b273d;
+    font-weight: 900;
+    margin: 0 0 1rem;
+    text-transform: uppercase;
+}
+
+.news{
+
+    display: flex;
+    justify-content: center;
+    margin-right: 0;
+    margin-left: 0;
+}
+.lgx-news{
+    
+    background: url("../img/icons/mariaalta.webp");
+}
+
+
+
+
